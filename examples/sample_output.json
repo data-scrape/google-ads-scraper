@@ -1,0 +1,30 @@
+[
+  {
+    "id": "abc123",
+    "title": "Sample Google Ads Result 1",
+    "description": "This is a sample scraped item from Google Ads.",
+    "url": "https://example.com/google ads/item1",
+    "date": "2024-01-15",
+    "author": "Sample User",
+    "rating": 4.5,
+    "metadata": {
+      "views": 1234,
+      "category": "sample"
+    },
+    "scraped_at": "2024-01-20T10:30:00Z"
+  },
+  {
+    "id": "def456",
+    "title": "Sample Google Ads Result 2",
+    "description": "Another sample item scraped from Google Ads.",
+    "url": "https://example.com/google ads/item2",
+    "date": "2024-01-16",
+    "author": "Another User",
+    "rating": 3.8,
+    "metadata": {
+      "views": 5678,
+      "category": "sample"
+    },
+    "scraped_at": "2024-01-20T10:30:01Z"
+  }
+]
